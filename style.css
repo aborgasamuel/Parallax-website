@@ -1,0 +1,97 @@
+#background_One{
+    background-image: url(./images/image1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    padding-left: 50px;
+    padding-right: 450px;
+    padding-bottom: 50px;
+    padding-top: 300px;
+    background-size: cover;
+
+}
+#block_text h1 {
+    text-align: center;
+    color: white;
+    border: solid #000000;
+    margin-top: 500px;
+    margin-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 600px;
+    margin-right: 100px;
+}
+#section_one{
+    text-align: center;
+    background-color: #F4F4F4;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#background_two{
+    background-image: url(./images/image2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 50px;
+    padding-left: 50px;
+    padding-right: 450px;
+    padding-bottom: 50px;
+    padding-top: 300px;
+}
+#section_two{
+    text-align: center;
+    background-color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+}
+#background_three{
+    background-image: url(./images/image3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 50px;
+    padding-left: 50px;
+    padding-right: 450px;
+    padding-bottom: 50px;
+    padding-top: 300px;
+}
+#section_three{
+    text-align: center;
+    background-color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-bottom: 45px;
+    color: white;
+}
+#last_image{
+    background-image: url(./images/image1.jpg);
+    height: 550px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    padding-left: 50px;
+    padding-right: 450px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+#blocktext-2{
+    text-align: center;
+    color: white;
+    border: solid #000000;
+    margin-top: 500px;
+    margin-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 600px;
+    margin-right: 100px;
+}
+
